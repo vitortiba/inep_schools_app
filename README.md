@@ -1,6 +1,8 @@
-# inepschoolsapp
+# inep_schools_app
 
-Application used to get information and statistics from schools present in INEP &quot;dados abertos&quot; API
+**Built for study purposes (Flutter)**
+
+Application built to get information and statistics from schools present in INEP &quot;dados abertos&quot; API
 
 ## Getting Started
 
