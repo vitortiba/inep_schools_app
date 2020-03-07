@@ -25,7 +25,7 @@ class School {
   int code;
   int censusYear;
   String address;
-  String enemOverallAverage;
+  double enemOverallAverage;
   String administrativeDependency;
   int countyCode;
 
